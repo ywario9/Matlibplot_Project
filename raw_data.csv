@@ -52,25 +52,6 @@
 "Wisconsin","251","506","56","327"
 "Wyoming","27","10","0","0"
 
-"Notes"
-"The National Vital Statistics System multiple cause-of-death mortality files were used to identify drug overdose deaths. Drug overdose deaths were classified using the International Classification of Disease, Tenth Revision (ICD-10), based on the ICD-10 underlying cause-of-death codes X40–44 (unintentional), X60–64 (suicide), X85 (homicide), or Y10–Y14 (undetermined intent). Among the deaths with drug overdose as the underlying cause, the type of opioid involved is indicated by the following ICD-10 multiple cause-of-death codes: natural and semisynthetic opioids (T40.2); methadone (T40.3); synthetic opioids, other than methadone (T40.4); and heroin (T40.1). "
-""
-"United States totals are not included because deaths might involve more than one drug, and thus categories are not exclusive. Deaths due to multiple types of opioids are reported in every applicable category. "
-""
-"Deaths from illegally-made fentanyl cannot be distinguished from pharmaceutical fentanyl in the data source. For this reason, deaths from both legally prescribed and illegally produced fentanyl are included in these data."
 
-"Sources"
-"Kaiser Family Foundation analysis of Centers for Disease Control and Prevention (CDC), National Center for Health Statistics. Multiple Cause of Death 1999-2018 on CDC WONDER Online Database, released 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at [http://wonder.cdc.gov/mcd-icd10.html](http://wonder.cdc.gov/mcd-icd10.html) on February 13, 2020."
-
-"Definitions"
-"*Natural and Semisynthetic Opioids*: A category of prescription opioids that includes natural opioid analgesics (e.g. morphine and codeine) and semi-synthetic opioid analgesics (e.g. drugs such as oxycodone, hydrocodone, hydromorphone, and oxymorphone)."
-""
-"*Synthetic Opioids, other than Methadone*: A category of opioids including drugs such as tramadol and fentanyl. Synthetic opioids are commonly available by prescription. Fentanyl is legally made as a pharmaceutical drug to treat pain, or illegally made as a non-prescription drug and is increasingly used to intensify the effects (or ""high"") of other drugs, such as heroin."
-""
-"*Methadone*: a synthetic opioid prescribed to treat moderate to severe pain or to reduce withdrawl symptoms in people addicted to heroin or other narcotic drugs."
-""
-"*Heroin*: an illicit (illegally-made) opioid synthesized from morphine."
-""
-"*N/A*: Not sufficient data. Data supressed to ensure confidentiality."
 
 
